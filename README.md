@@ -1,16 +1,55 @@
-### Hi there 👋
+### Hi there 👋, I'm Vlad
 
-<!--
-**nvmbr-hub/nvmbr-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=nvmbr-hub)
 
-Here are some ideas to get you started:
+## I'm a Developer, I know not a little, but I want to know even more 👌
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💥 I didn't want to be a military man and went to write code because I really like it
+- 🎮 \* I like to play video games andдзjudo
+- 👨‍🎓 I am constantly learning something new and developing every day
+- 📸 I also like to take pictures
+- 🤝 You can learn even more about me if you chat with me! I am always glad to meet new people
+- 😅 And I also use tabs instead of spaces
+
+### Connect with me:
+
+[<img align="left" alt="Vladislav Simutin | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/telegram.svg" />][telegram]
+[<img align="left" alt="Vladislav Simutin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Vladislav Simutin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Vladislav Simutin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+[<img align="left" alt="Vladislav Simutin | VK" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/stackoverflow.svg" />][stackoverflow]
+
+<br />
+
+### Languages and Tools:
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+
+<br />
+<br />
+
+### Statistics:
+
+<br />
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nvmbr-hub)
+
+<br />
+
+### My top languages:
+
+<br />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nvmbr-hub)
+
+[telegram]: https://t.me/Hydrar_gyrum
+[stackoverflow]: https://stackoverflow.com/users/17045517/vladislav-simutin
+[twitter]: https://twitter.com/vlad_is_lover
+[instagram]: https://www.instagram.com/nord_winter/
+[vk]: https://vk.com/vsimutin
