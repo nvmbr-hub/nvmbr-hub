@@ -5,7 +5,7 @@
 ## I'm a Developer, I know not a little, but I want to know even more 👌
 
 - 💥 I didn't want to be a military man and went to write code because I really like it
-- 🎮 \* I like to play video games andдзjudo
+- 🎮 I like to play video games andдзjudo
 - 👨‍🎓 I am constantly learning something new and developing every day
 - 📸 I also like to take pictures
 - 🤝 You can learn even more about me if you chat with me! I am always glad to meet new people
