@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nvmbr-hub)
 
-## I'm a Developer, I know not a little, but I want to know even more 👌
+## I'm a Developer 👌
 
 - 💥 I didn't want to be a military man and went to write code because I really like it
 - 🎮 I like to play video games and judo
