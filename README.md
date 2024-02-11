@@ -4,8 +4,8 @@
 
 ## I'm a Developer 👌
 
-- 💥 I didn't want to be a military man and went to write code because I really like it
-- 🎮 I like to play video games and judo
+- 💥 I write code because I really like it
+- 🎮 I'm stand up comedian and I play football and watch judo
 - 👨‍🎓 I am constantly learning something new and developing every day
 - 📸 I also like to take pictures
 - 🤝 You can learn even more about me if you chat with me! I am always glad to meet new people
